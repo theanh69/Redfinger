@@ -11,19 +11,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string><![CDATA[https://drive.google.com/uc?export=host&id=176hX5ruWHnADJk5llseqjNGoARLeAQbg]]></string>
+            <string><![CDATA[https://public.boxcloud.com/d/1/b1!bFeN5a_VPU1ZupkZXCFQwJPz1qun_JZflShK364MajUAMnpdrj0LuXszUrif08c4VzF2nbkM9o286sN4zZRjnXgsw0MKr-78eBMZsMwqdfSkhlj3TXXj8gc3L9mhgLvFdTW_bdixcv8T8U3AE9y5dBI43pRXr8B0-UX0fyi1waASgDZDFkPavxyJ5qyu4B2MSeDOqHKqLnSEpV1u88qfNCU_VTfugxq9iOlevx39qg_N_r6nspnxkt-AlPXvwmGPjh0mGL_5uD8D-S5EVy6T7Ybylp5xrUbE0qHsrX58odxEhudcEUWNOpUsSVdK92O1XJjutmZ31XTcdGasT2JV_XmYs4pDBitAQciKx6hUZazgJatAwNEn9QlV-9GVV2lZ7xkEuvgZjFhEt_S3m5TX897jiGAJpATXGoHN9uHG2XUq8F-jD4VcrXVUFzQfj2j34atxAUA2e1jcGoVd4Yjca2ePut2_n2hbkIIqX4R7NyOK7zWd4dQDc8Bpn2_P0J1uCS7wkOW9YOIb2MNVKKV4QG0Dh56vPG9rVz89zXKH5Y07sW74ccNfCK4j1kW21DIUPprfAT24iLXX9RRie3JpQDNxQ4D3qcRc4gXaunMGFEjzm0Jb6GoCSSVNl4GRUBaJhWwtJKoBEJySih4k_3Ox-Hf2t-Mk6enjUmtQQhhv3d0Q4C25AFIK-qzVzXu1pDKtJhqlmmEMyPRs_97Ru4YEkcpDpCmRIj5wFHVd4qcveG5Oqljmbb1LQb4_c2I4MatLUc7E2VL2HsF-Qgp6Jy6CqBDwKz2vxCQk3XHytgZIJWaNZBijCqfKPI2KS86cU-9itvh1QsdtEKWpadB9Yt-j8EiDwfYPLTF-oDkzgMAvf2MhFhdWrT6G0K0TL1jvn6BKnIpjzcHEzOVzPeR_tsS-uLEE3RrcDmR-cWJIhkFCjK2LF6yTYccd2ZKaLSn4jowTqao6ovzK5CxE2HMqUhFIElZY0-4Ze7gJ_ptD8LeVLB81rrtEtiVL-XDrnNiINiyxOtLTs4EHAp5KdnMWn9O3IzHGLkOZzyZXzFzzuFR_zgenCwaOzGXh3vFUkRuyv_gtnDndUfxURZ7HrTRvCfOpsZD0TI2P63yZ_6WwcZH5topg98HMOQXHRBatnAH_izBl03sBORlUBy-0Oh0uqtbvsx3ethgYHJALuhERdtdOPaeT1F8qOc2DaZ9FZDtlisyjuIn1zyCfZJlg6QS-Rh26Ypg6SKXtaycXyF8oY21Fs7MrsmJhgg../download]]></string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jingwatchvip.WatchFace</string>
+          <string>com.redfinger.global</string>
           <key>bundle-version</key>
           <string><![CDATA[unknown]]></string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string><![CDATA[JINGWATCH PRO - THEANH]]></string>
+          <string><![CDATA[Redfinger - THEANH]]></string>
         </dict>
       </dict>
     </array>
